@@ -1,0 +1,30 @@
+ case 7 :
+                    System.out.println("enter inr");
+                    double Inre = sc.nextDouble();
+                    System.out.println(Inre+"Inr are converted to "+cc.InrToEuro(Inre)+ "Euro");
+                    break;
+                case 8 :
+                    System.out.println("enter inr");
+                    double Inry = sc.nextDouble();
+                    System.out.println(Inry+"Inr are converted to "+cc.InrToYen(Inry)+ "Yen");
+                    break;
+                case 9 :
+                    System.out.println("enter inr");
+                    double Inrp = sc.nextDouble();
+                    System.out.println(Inrp+"Inr are converted to "+cc.InrToPound(Inrp)+ "Pound");
+                    break;
+                case 10 :
+                    System.out.println("enter inr");
+                    double Inrc = sc.nextDouble();
+                    System.out.println(Inrc+"Inr are converted to "+cc.InrToCad(Inrc)+ "CAD");
+                    break;
+                case 11 :
+                    System.out.println("enter Eur");
+                    double Eurd = sc.nextDouble();
+                    System.out.println(Eurd+"Euro are converted to "+cc.EurToDollar(Eurd)+ "Dollar");
+                    break;
+                case 12 :
+                    System.out.println("enter Eur");
+                    double Eur = sc.nextDouble();
+                    System.out.println(Eur+"Euro are converted to "+cc.EurToInr(Eur)+ "INR");
+                    break;

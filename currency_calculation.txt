@@ -1,0 +1,30 @@
+   public double InrToEuro(double Inre){
+        double Euro = 0;
+        Euro = Inre*er;
+        return Euro;
+    }
+    public double InrToYen(double Inry){
+        double yen = 0;
+        yen = Inry/er;
+        return yen;
+    }
+    public double InrToPound(double Inrp){
+        double pound = 0;
+        pound = Inrp*er;
+        return pound;
+    }
+    public double InrToCad(double Inrc){
+        double cad = 0;
+        cad = Inrc/er;
+        return cad;
+    }
+    public double EurToDollar(double Eurd){
+        double dollar = 0;
+        dollar = Eurd*er;
+        return dollar;
+    }
+    public double EurToInr(double Eur){
+        double Euro = 0;
+        Euro = Euro*er;
+        return Euro;
+    }
